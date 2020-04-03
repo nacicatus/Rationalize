@@ -1,0 +1,632 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "DashboardViewController"
+provides-nominal:
+- "11Rationalize23DashboardViewControllerC"
+provides-member:
+- ["11Rationalize23DashboardViewControllerC", ""]
+provides-dynamic-lookup:
+- "addFamilyDetails"
+- "carbsLabel"
+- "daySlider"
+- "daysChanged"
+- "familySize"
+- "fatsLabel"
+- "goShopping"
+- "lockdownDays"
+- "peopleChanged"
+- "peopleSlider"
+- "prepare"
+- "proteinLabel"
+- "toiletPaperLabel"
+- "totalNeedLabel"
+- "viewDidLoad"
+depends-top-level:
+- !private "*"
+- "AssignmentPrecedence"
+- "DashboardViewController"
+- !private "FloatLiteralType"
+- !private "Int"
+- !private "IntegerLiteralType"
+- !private "StringLiteralType"
+- "UIButton"
+- "UILabel"
+- "UISlider"
+- "UIStoryboardSegue"
+- "UIViewController"
+depends-member:
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["Sz", "init"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["So15CALayerDelegateP", "value"]
+- !private ["s7CVarArgP", "Int"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "carbsLabel"]
+- !private ["s7CVarArgP", "daySlider"]
+- !private ["s7CVarArgP", "familySize"]
+- !private ["s7CVarArgP", "fatsLabel"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "lockdownDays"]
+- !private ["s7CVarArgP", "peopleSlider"]
+- !private ["s7CVarArgP", "performSegue"]
+- !private ["s7CVarArgP", "proteinLabel"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "toiletPaperLabel"]
+- !private ["s7CVarArgP", "totalNeedLabel"]
+- !private ["s7CVarArgP", "updateNeeds"]
+- !private ["s7CVarArgP", "value"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "Int"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "carbsLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "daySlider"]
+- !private ["s28CustomDebugStringConvertibleP", "familySize"]
+- !private ["s28CustomDebugStringConvertibleP", "fatsLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "lockdownDays"]
+- !private ["s28CustomDebugStringConvertibleP", "peopleSlider"]
+- !private ["s28CustomDebugStringConvertibleP", "performSegue"]
+- !private ["s28CustomDebugStringConvertibleP", "proteinLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "toiletPaperLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "totalNeedLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "updateNeeds"]
+- !private ["s28CustomDebugStringConvertibleP", "value"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "text"]
+- !private ["s17CustomReflectableP", "value"]
+- !private ["s23CustomStringConvertibleP", "Int"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "carbsLabel"]
+- !private ["s23CustomStringConvertibleP", "daySlider"]
+- !private ["s23CustomStringConvertibleP", "familySize"]
+- !private ["s23CustomStringConvertibleP", "fatsLabel"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "lockdownDays"]
+- !private ["s23CustomStringConvertibleP", "peopleSlider"]
+- !private ["s23CustomStringConvertibleP", "performSegue"]
+- !private ["s23CustomStringConvertibleP", "proteinLabel"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "toiletPaperLabel"]
+- !private ["s23CustomStringConvertibleP", "totalNeedLabel"]
+- !private ["s23CustomStringConvertibleP", "updateNeeds"]
+- !private ["s23CustomStringConvertibleP", "value"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["11Rationalize23DashboardViewControllerC", "Int"]
+- ["11Rationalize23DashboardViewControllerC", "UIButton"]
+- ["11Rationalize23DashboardViewControllerC", "UILabel"]
+- ["11Rationalize23DashboardViewControllerC", "UISlider"]
+- ["11Rationalize23DashboardViewControllerC", "UIStoryboardSegue"]
+- ["11Rationalize23DashboardViewControllerC", "addFamilyDetails"]
+- ["11Rationalize23DashboardViewControllerC", "carbsLabel"]
+- ["11Rationalize23DashboardViewControllerC", "daySlider"]
+- ["11Rationalize23DashboardViewControllerC", "daysChanged"]
+- ["11Rationalize23DashboardViewControllerC", "familySize"]
+- ["11Rationalize23DashboardViewControllerC", "fatsLabel"]
+- ["11Rationalize23DashboardViewControllerC", "goShopping"]
+- ["11Rationalize23DashboardViewControllerC", "init"]
+- ["11Rationalize23DashboardViewControllerC", "lockdownDays"]
+- ["11Rationalize23DashboardViewControllerC", "peopleChanged"]
+- ["11Rationalize23DashboardViewControllerC", "peopleSlider"]
+- !private ["11Rationalize23DashboardViewControllerC", "performSegue"]
+- ["11Rationalize23DashboardViewControllerC", "prepare"]
+- ["11Rationalize23DashboardViewControllerC", "proteinLabel"]
+- ["11Rationalize23DashboardViewControllerC", "toiletPaperLabel"]
+- ["11Rationalize23DashboardViewControllerC", "totalNeedLabel"]
+- ["11Rationalize23DashboardViewControllerC", "updateNeeds"]
+- ["11Rationalize23DashboardViewControllerC", "viewDidLoad"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["Se", "text"]
+- !private ["Se", "value"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- !private ["SE", "text"]
+- !private ["SE", "value"]
+- !private ["SQ", "Int"]
+- ["SQ", ""]
+- !private ["SQ", "carbsLabel"]
+- !private ["SQ", "daySlider"]
+- !private ["SQ", "familySize"]
+- !private ["SQ", "fatsLabel"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "lockdownDays"]
+- !private ["SQ", "peopleSlider"]
+- !private ["SQ", "performSegue"]
+- !private ["SQ", "proteinLabel"]
+- !private ["SQ", "text"]
+- !private ["SQ", "toiletPaperLabel"]
+- !private ["SQ", "totalNeedLabel"]
+- !private ["SQ", "updateNeeds"]
+- !private ["SQ", "value"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- !private ["s23ExpressibleByNilLiteralP", "value"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- !private ["SH", "Int"]
+- ["SH", ""]
+- !private ["SH", "carbsLabel"]
+- !private ["SH", "daySlider"]
+- !private ["SH", "familySize"]
+- !private ["SH", "fatsLabel"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "lockdownDays"]
+- !private ["SH", "peopleSlider"]
+- !private ["SH", "performSegue"]
+- !private ["SH", "proteinLabel"]
+- !private ["SH", "text"]
+- !private ["SH", "toiletPaperLabel"]
+- !private ["SH", "totalNeedLabel"]
+- !private ["SH", "updateNeeds"]
+- !private ["SH", "value"]
+- !private ["SH", "viewDidLoad"]
+- !private ["Si", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "Int"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "carbsLabel"]
+- !private ["So8NSCodingP", "daySlider"]
+- !private ["So8NSCodingP", "familySize"]
+- !private ["So8NSCodingP", "fatsLabel"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "lockdownDays"]
+- !private ["So8NSCodingP", "peopleSlider"]
+- !private ["So8NSCodingP", "performSegue"]
+- !private ["So8NSCodingP", "proteinLabel"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "toiletPaperLabel"]
+- !private ["So8NSCodingP", "totalNeedLabel"]
+- !private ["So8NSCodingP", "updateNeeds"]
+- !private ["So8NSCodingP", "value"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "Int"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "carbsLabel"]
+- !private ["So26NSExtensionRequestHandlingP", "daySlider"]
+- !private ["So26NSExtensionRequestHandlingP", "familySize"]
+- !private ["So26NSExtensionRequestHandlingP", "fatsLabel"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "lockdownDays"]
+- !private ["So26NSExtensionRequestHandlingP", "peopleSlider"]
+- !private ["So26NSExtensionRequestHandlingP", "performSegue"]
+- !private ["So26NSExtensionRequestHandlingP", "proteinLabel"]
+- !private ["So26NSExtensionRequestHandlingP", "toiletPaperLabel"]
+- !private ["So26NSExtensionRequestHandlingP", "totalNeedLabel"]
+- !private ["So26NSExtensionRequestHandlingP", "updateNeeds"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So8NSObjectC", "Int"]
+- ["So8NSObjectC", "UIButton"]
+- ["So8NSObjectC", "UILabel"]
+- ["So8NSObjectC", "UISlider"]
+- ["So8NSObjectC", "UIStoryboardSegue"]
+- ["So8NSObjectC", "addFamilyDetails"]
+- ["So8NSObjectC", "carbsLabel"]
+- ["So8NSObjectC", "daySlider"]
+- ["So8NSObjectC", "daysChanged"]
+- ["So8NSObjectC", "familySize"]
+- ["So8NSObjectC", "fatsLabel"]
+- ["So8NSObjectC", "goShopping"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "lockdownDays"]
+- ["So8NSObjectC", "peopleChanged"]
+- ["So8NSObjectC", "peopleSlider"]
+- !private ["So8NSObjectC", "performSegue"]
+- ["So8NSObjectC", "prepare"]
+- ["So8NSObjectC", "proteinLabel"]
+- !private ["So8NSObjectC", "text"]
+- ["So8NSObjectC", "toiletPaperLabel"]
+- ["So8NSObjectC", "totalNeedLabel"]
+- ["So8NSObjectC", "updateNeeds"]
+- !private ["So8NSObjectC", "value"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectP", "Int"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "carbsLabel"]
+- !private ["So8NSObjectP", "daySlider"]
+- !private ["So8NSObjectP", "familySize"]
+- !private ["So8NSObjectP", "fatsLabel"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "lockdownDays"]
+- !private ["So8NSObjectP", "peopleSlider"]
+- !private ["So8NSObjectP", "performSegue"]
+- !private ["So8NSObjectP", "proteinLabel"]
+- !private ["So8NSObjectP", "text"]
+- !private ["So8NSObjectP", "toiletPaperLabel"]
+- !private ["So8NSObjectP", "totalNeedLabel"]
+- !private ["So8NSObjectP", "updateNeeds"]
+- !private ["So8NSObjectP", "value"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["Sj", "init"]
+- !private ["Sq", "text"]
+- !private ["Sq", "value"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["SZ", "init"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["Sx", "init"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So29UIAccessibilityIdentificationP", "value"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So12UIAppearanceP", "value"]
+- !private ["So21UIAppearanceContainerP", "Int"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "carbsLabel"]
+- !private ["So21UIAppearanceContainerP", "daySlider"]
+- !private ["So21UIAppearanceContainerP", "familySize"]
+- !private ["So21UIAppearanceContainerP", "fatsLabel"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "lockdownDays"]
+- !private ["So21UIAppearanceContainerP", "peopleSlider"]
+- !private ["So21UIAppearanceContainerP", "performSegue"]
+- !private ["So21UIAppearanceContainerP", "proteinLabel"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "toiletPaperLabel"]
+- !private ["So21UIAppearanceContainerP", "totalNeedLabel"]
+- !private ["So21UIAppearanceContainerP", "updateNeeds"]
+- !private ["So21UIAppearanceContainerP", "value"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So18UIContentContainerP", "Int"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "carbsLabel"]
+- !private ["So18UIContentContainerP", "daySlider"]
+- !private ["So18UIContentContainerP", "familySize"]
+- !private ["So18UIContentContainerP", "fatsLabel"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "lockdownDays"]
+- !private ["So18UIContentContainerP", "peopleSlider"]
+- !private ["So18UIContentContainerP", "performSegue"]
+- !private ["So18UIContentContainerP", "proteinLabel"]
+- !private ["So18UIContentContainerP", "toiletPaperLabel"]
+- !private ["So18UIContentContainerP", "totalNeedLabel"]
+- !private ["So18UIContentContainerP", "updateNeeds"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So9UIControlC", "value"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So17UICoordinateSpaceP", "value"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So13UIDynamicItemP", "value"]
+- !private ["So18UIFocusEnvironmentP", "Int"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "carbsLabel"]
+- !private ["So18UIFocusEnvironmentP", "daySlider"]
+- !private ["So18UIFocusEnvironmentP", "familySize"]
+- !private ["So18UIFocusEnvironmentP", "fatsLabel"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "lockdownDays"]
+- !private ["So18UIFocusEnvironmentP", "peopleSlider"]
+- !private ["So18UIFocusEnvironmentP", "performSegue"]
+- !private ["So18UIFocusEnvironmentP", "proteinLabel"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "toiletPaperLabel"]
+- !private ["So18UIFocusEnvironmentP", "totalNeedLabel"]
+- !private ["So18UIFocusEnvironmentP", "updateNeeds"]
+- !private ["So18UIFocusEnvironmentP", "value"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So11UIFocusItemP", "value"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So20UIFocusItemContainerP", "value"]
+- !private ["So7UILabelC", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "Int"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "carbsLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "daySlider"]
+- !private ["So30UIPasteConfigurationSupportingP", "familySize"]
+- !private ["So30UIPasteConfigurationSupportingP", "fatsLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "lockdownDays"]
+- !private ["So30UIPasteConfigurationSupportingP", "peopleSlider"]
+- !private ["So30UIPasteConfigurationSupportingP", "performSegue"]
+- !private ["So30UIPasteConfigurationSupportingP", "proteinLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "toiletPaperLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "totalNeedLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "updateNeeds"]
+- !private ["So30UIPasteConfigurationSupportingP", "value"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So11UIResponderC", "Int"]
+- ["So11UIResponderC", "UIButton"]
+- ["So11UIResponderC", "UILabel"]
+- ["So11UIResponderC", "UISlider"]
+- ["So11UIResponderC", "UIStoryboardSegue"]
+- ["So11UIResponderC", "addFamilyDetails"]
+- ["So11UIResponderC", "carbsLabel"]
+- ["So11UIResponderC", "daySlider"]
+- ["So11UIResponderC", "daysChanged"]
+- ["So11UIResponderC", "familySize"]
+- ["So11UIResponderC", "fatsLabel"]
+- ["So11UIResponderC", "goShopping"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "lockdownDays"]
+- ["So11UIResponderC", "peopleChanged"]
+- ["So11UIResponderC", "peopleSlider"]
+- !private ["So11UIResponderC", "performSegue"]
+- ["So11UIResponderC", "prepare"]
+- ["So11UIResponderC", "proteinLabel"]
+- !private ["So11UIResponderC", "text"]
+- ["So11UIResponderC", "toiletPaperLabel"]
+- ["So11UIResponderC", "totalNeedLabel"]
+- ["So11UIResponderC", "updateNeeds"]
+- !private ["So11UIResponderC", "value"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "Int"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "carbsLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "daySlider"]
+- !private ["So30UIResponderStandardEditActionsP", "familySize"]
+- !private ["So30UIResponderStandardEditActionsP", "fatsLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "lockdownDays"]
+- !private ["So30UIResponderStandardEditActionsP", "peopleSlider"]
+- !private ["So30UIResponderStandardEditActionsP", "performSegue"]
+- !private ["So30UIResponderStandardEditActionsP", "proteinLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "toiletPaperLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "totalNeedLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "updateNeeds"]
+- !private ["So30UIResponderStandardEditActionsP", "value"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So8UISliderC", "value"]
+- !private ["So16UIStateRestoringP", "Int"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "carbsLabel"]
+- !private ["So16UIStateRestoringP", "daySlider"]
+- !private ["So16UIStateRestoringP", "familySize"]
+- !private ["So16UIStateRestoringP", "fatsLabel"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "lockdownDays"]
+- !private ["So16UIStateRestoringP", "peopleSlider"]
+- !private ["So16UIStateRestoringP", "performSegue"]
+- !private ["So16UIStateRestoringP", "proteinLabel"]
+- !private ["So16UIStateRestoringP", "toiletPaperLabel"]
+- !private ["So16UIStateRestoringP", "totalNeedLabel"]
+- !private ["So16UIStateRestoringP", "updateNeeds"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So18UITraitEnvironmentP", "Int"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "carbsLabel"]
+- !private ["So18UITraitEnvironmentP", "daySlider"]
+- !private ["So18UITraitEnvironmentP", "familySize"]
+- !private ["So18UITraitEnvironmentP", "fatsLabel"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "lockdownDays"]
+- !private ["So18UITraitEnvironmentP", "peopleSlider"]
+- !private ["So18UITraitEnvironmentP", "performSegue"]
+- !private ["So18UITraitEnvironmentP", "proteinLabel"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "toiletPaperLabel"]
+- !private ["So18UITraitEnvironmentP", "totalNeedLabel"]
+- !private ["So18UITraitEnvironmentP", "updateNeeds"]
+- !private ["So18UITraitEnvironmentP", "value"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "Int"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "carbsLabel"]
+- !private ["So23UIUserActivityRestoringP", "daySlider"]
+- !private ["So23UIUserActivityRestoringP", "familySize"]
+- !private ["So23UIUserActivityRestoringP", "fatsLabel"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "lockdownDays"]
+- !private ["So23UIUserActivityRestoringP", "peopleSlider"]
+- !private ["So23UIUserActivityRestoringP", "performSegue"]
+- !private ["So23UIUserActivityRestoringP", "proteinLabel"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- !private ["So23UIUserActivityRestoringP", "toiletPaperLabel"]
+- !private ["So23UIUserActivityRestoringP", "totalNeedLabel"]
+- !private ["So23UIUserActivityRestoringP", "updateNeeds"]
+- !private ["So23UIUserActivityRestoringP", "value"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So6UIViewC", "text"]
+- !private ["So6UIViewC", "value"]
+- !private ["So16UIViewControllerC", "Int"]
+- ["So16UIViewControllerC", "UIButton"]
+- ["So16UIViewControllerC", "UILabel"]
+- ["So16UIViewControllerC", "UISlider"]
+- ["So16UIViewControllerC", "UIStoryboardSegue"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "addFamilyDetails"]
+- ["So16UIViewControllerC", "carbsLabel"]
+- ["So16UIViewControllerC", "daySlider"]
+- ["So16UIViewControllerC", "daysChanged"]
+- ["So16UIViewControllerC", "familySize"]
+- ["So16UIViewControllerC", "fatsLabel"]
+- ["So16UIViewControllerC", "goShopping"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "lockdownDays"]
+- ["So16UIViewControllerC", "peopleChanged"]
+- ["So16UIViewControllerC", "peopleSlider"]
+- !private ["So16UIViewControllerC", "performSegue"]
+- ["So16UIViewControllerC", "prepare"]
+- ["So16UIViewControllerC", "proteinLabel"]
+- ["So16UIViewControllerC", "toiletPaperLabel"]
+- ["So16UIViewControllerC", "totalNeedLabel"]
+- ["So16UIViewControllerC", "updateNeeds"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["s18_BitwiseOperationsP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "text"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "value"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Int"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "carbsLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "daySlider"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "familySize"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "fatsLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "lockdownDays"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "peopleSlider"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "performSegue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "proteinLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "toiletPaperLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "totalNeedLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "updateNeeds"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "value"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- !private ["s21_ObjectiveCBridgeableP", "value"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "SK"
+- !private "Sz"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "11Rationalize23DashboardViewControllerC"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s17FixedWidthIntegerP"
+- "SH"
+- !private "Si"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sj"
+- !private "Sq"
+- !private "Sm"
+- !private "ST"
+- !private "SZ"
+- !private "s13SignedNumericP"
+- !private "Sx"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So7UILabelC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So8UISliderC"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "s18_BitwiseOperationsP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "4c96e13d4a196de568474ced4aeb5fbd"
