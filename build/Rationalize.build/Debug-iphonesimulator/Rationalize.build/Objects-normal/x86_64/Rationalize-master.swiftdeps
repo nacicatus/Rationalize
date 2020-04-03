@@ -1,8 +1,8 @@
 version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
 options: "c5bfa745f7c61319a36e1b545c9dfd30"
-build_time: [1585941305, 71815000]
+build_time: [1585943436, 927422000]
 inputs:
-  "/Users/yajnavalkya/Developer/Rationalize/Rationalize/ShoppingListTableViewController.swift": [1585941303, 0]
+  "/Users/yajnavalkya/Developer/Rationalize/Rationalize/ShoppingListTableViewController.swift": [1585943436, 0]
   "/Users/yajnavalkya/Developer/Rationalize/Rationalize/AppDelegate.swift": [1585818322, 0]
   "/Users/yajnavalkya/Developer/Rationalize/Rationalize/SnappingSlider.swift": [1585925050, 0]
   "/Users/yajnavalkya/Developer/Rationalize/Rationalize/HouseholdTableViewController.swift": [1585932519, 0]

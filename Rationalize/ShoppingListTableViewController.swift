@@ -42,8 +42,11 @@ class ShoppingListTableViewController: UITableViewController {
     override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: "foodCell", for: indexPath)
         
-        cell.textLabel?.text = items[indexPath.row].restaurant
-        //cell.detailTextLabel?.text = items[indexPath.row].foodItems[0]
+//        cell.textLabel?.text = items[indexPath.row].restaurant
+        cell.textLabel?.text = items[indexPath.row].foodItems[indexPath.row].foodName
+        cell.detailTextLabel?.text = items[indexPath.row].foodItems[indexPath.row].calories
+
+        
         return cell
     }
     
